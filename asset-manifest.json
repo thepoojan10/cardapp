@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/thepoojan10/cardapp/static/css/main.7b6d5464.css",
-    "main.js": "/thepoojan10/cardapp/static/js/main.b3e55dc6.js",
-    "static/js/488.242cf9f5.chunk.js": "/thepoojan10/cardapp/static/js/488.242cf9f5.chunk.js",
-    "static/media/slick.svg": "/thepoojan10/cardapp/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/thepoojan10/cardapp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/thepoojan10/cardapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/thepoojan10/cardapp/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/thepoojan10/cardapp/index.html",
-    "main.7b6d5464.css.map": "/thepoojan10/cardapp/static/css/main.7b6d5464.css.map",
-    "main.b3e55dc6.js.map": "/thepoojan10/cardapp/static/js/main.b3e55dc6.js.map",
-    "488.242cf9f5.chunk.js.map": "/thepoojan10/cardapp/static/js/488.242cf9f5.chunk.js.map"
+    "main.css": "/cardapp/static/css/main.dac4ccb3.css",
+    "main.js": "/cardapp/static/js/main.106632c3.js",
+    "static/js/488.242cf9f5.chunk.js": "/cardapp/static/js/488.242cf9f5.chunk.js",
+    "static/media/slick.svg": "/cardapp/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/cardapp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/cardapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/cardapp/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/cardapp/index.html",
+    "main.dac4ccb3.css.map": "/cardapp/static/css/main.dac4ccb3.css.map",
+    "main.106632c3.js.map": "/cardapp/static/js/main.106632c3.js.map",
+    "488.242cf9f5.chunk.js.map": "/cardapp/static/js/488.242cf9f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b6d5464.css",
-    "static/js/main.b3e55dc6.js"
+    "static/css/main.dac4ccb3.css",
+    "static/js/main.106632c3.js"
   ]
 }
