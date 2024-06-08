@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cardapp/static/css/main.dac4ccb3.css",
-    "main.js": "/cardapp/static/js/main.106632c3.js",
-    "static/js/488.242cf9f5.chunk.js": "/cardapp/static/js/488.242cf9f5.chunk.js",
-    "static/media/slick.svg": "/cardapp/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/cardapp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/cardapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/cardapp/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/cardapp/index.html",
-    "main.dac4ccb3.css.map": "/cardapp/static/css/main.dac4ccb3.css.map",
-    "main.106632c3.js.map": "/cardapp/static/js/main.106632c3.js.map",
-    "488.242cf9f5.chunk.js.map": "/cardapp/static/js/488.242cf9f5.chunk.js.map"
+    "main.css": "/newcardapp/static/css/main.eb63b7ce.css",
+    "main.js": "/newcardapp/static/js/main.7b80c1be.js",
+    "static/js/488.242cf9f5.chunk.js": "/newcardapp/static/js/488.242cf9f5.chunk.js",
+    "static/media/slick.svg": "/newcardapp/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/newcardapp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/newcardapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/newcardapp/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/newcardapp/index.html",
+    "main.eb63b7ce.css.map": "/newcardapp/static/css/main.eb63b7ce.css.map",
+    "main.7b80c1be.js.map": "/newcardapp/static/js/main.7b80c1be.js.map",
+    "488.242cf9f5.chunk.js.map": "/newcardapp/static/js/488.242cf9f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dac4ccb3.css",
-    "static/js/main.106632c3.js"
+    "static/css/main.eb63b7ce.css",
+    "static/js/main.7b80c1be.js"
   ]
 }
